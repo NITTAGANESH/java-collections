@@ -1,7 +1,7 @@
 //  Write a Java program to copy all of the mappings from the specified map to another map.
 
 import java.util.*;  
-public class Eercise3 {  
+public class Exercise3 {  
    public static void main(String args[]) {
   // create two hash maps
   HashMap <Integer,String> hash_map1 = new HashMap <Integer,String> ();
